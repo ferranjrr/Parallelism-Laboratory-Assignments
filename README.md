@@ -11,7 +11,7 @@ In this repository you can find the laboratory assignments of the subject [PAR](
 
 * [Lab 4: Divide and Conquer parallelism with OpenMP: Sorting](https://github.com/ferranjrr/Parallelism-Laboratory-Assignments/tree/main/Lab%204:%20Divide%20and%20Conquer%20parallelism%20with%20OpenMP:%20Sorting) - Grade: 12.00
 
-* [Lab 5: Geometric (data) decomposition using implicit tasks: heat diffusion equation](https://github.com/ferranjrr/Parallelism-Laboratory-Assignments/tree/main/Lab%205:%20Geometric%20(data)%20decomposition%20using%20implicit%20tasks:%20heat%20di%0Busion%20equation) - Grade: 11.4
+* [Lab 5: Geometric (data) decomposition using implicit tasks: heat diffusion equation](https://github.com/ferranjrr/Parallelism-Laboratory-Assignments/tree/main/Lab%205:%20Geometric%20(data)%20decomposition%20using%20implicit%20tasks:%20heat%20diffusion%20equation) - Grade: 11.4
 
 Laboratory final grade: 9.88 out of 10.
 
